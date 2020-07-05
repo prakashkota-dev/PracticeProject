@@ -1,0 +1,5 @@
+Hello All,
+
+This is a welcome notes to my Repository.
+I have created this for Practice and solely for learning purpose.
+The code written is not for commercial purpose.
